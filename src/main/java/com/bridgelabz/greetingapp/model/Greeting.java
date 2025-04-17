@@ -21,4 +21,8 @@ public class Greeting {
         return message;
     }
     public Greeting(){}
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
 }

@@ -1,4 +1,3 @@
-
 package com.bridgelabz.greetingapp.model;
 
 import jakarta.persistence.Entity;
